@@ -11,6 +11,8 @@ const rateLimit = new Ratelimit({
 
 export default rateLimit;
 
+
+
 // import { Redis } from '@upstash/redis'
 // import { RateLimit } from '@upstash/redis-ratelimit'
 // import 'dotenv/config'
